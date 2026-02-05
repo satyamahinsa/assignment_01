@@ -135,7 +135,7 @@ Enter a keyword (or type 'exit'):
 - Enter any keyword to search for matching chunks
 - Type exit to terminate the program
 
-!['Result Output'](/01_assignment/img/results.png)
+!['Result Output'](img/results.png)
 
 ---
 
